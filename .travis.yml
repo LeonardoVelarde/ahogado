@@ -1,6 +1,6 @@
 language: ruby
 rvm:
-  - 2.1.5p273
+  - 2.1.1
 script:
   - bundle exec cucumber
   - bundle exec rspec
