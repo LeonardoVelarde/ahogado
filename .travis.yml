@@ -9,5 +9,6 @@ rvm:
   - 2.1.3
 script:
   - cat Gemfile.lock
+  - gem install nokogirl
   - bundle exec cucumber
   - bundle exec rspec
