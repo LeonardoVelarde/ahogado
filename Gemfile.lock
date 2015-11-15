@@ -64,6 +64,7 @@ PLATFORMS
 
 DEPENDENCIES
   cucumber
+  nokogiri
   rack-test
   rspec
   simplecov
