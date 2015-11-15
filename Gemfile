@@ -1,6 +1,7 @@
 # A sample Gemfile
 source "http://rubygems.org"
 
+gem "nokogiri"
 gem "sinatra"
 gem "cucumber"
 gem "rack-test"
