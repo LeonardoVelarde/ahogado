@@ -1,2 +1,3 @@
-# ahorcado
-[![Build Status](https://travis-ci.org/luisoscarmldc/ahorcado.png)](https://travis-ci.org/luisoscarmldc/ahorcado)
+# Ahogado
+
+[![Build Status](https://travis-ci.org/leanguardia/Ahogado.svg)](https://travis-ci.org/leanguardia/Ahogado)

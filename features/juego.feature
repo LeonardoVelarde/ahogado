@@ -1,9 +1,10 @@
-Feature: Iniciar juego
+Feature: Juego
+  Scenario: Iniciar
+    Given estando en la pantalla de jugar
+    When hago click en un boton "empezar"
+    Then deberia mostrarse un label "palabra" que tenga solo barras bajas
 
-Scenario: Mostrar pagina de inicio de juego
-Given estoy en la pagina de inicio
-When presiono el boton de "Juego Nuevo"
-Then deberia ver el mensaje "Nuevo juego"
-Then deberia ver la ahorca "0.jpg"
-Then deberia ver el campo "ingresar"
-Then deberia ver el boton "Ok"
+#  Scenario: Jugar
+#    Given estando en la pantalla inicial
+#    When hago click en el boton "jugar"
+#    Then deberia redirigirme a una la direccion "/jugar"
